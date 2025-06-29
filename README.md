@@ -23,10 +23,10 @@ An end-to-end real-time object detection and analytics solution designed for ret
 ## 🖼️ Screenshots
 
 ### 🎥 Real-Time Detection Interface
-![Detection]("image.png")
+![Detection](image.png)
 
 ### 📈 Analytics Dashboard
-![Dashboard]("image-1.png")
+![Dashboard](image-1.png)
 
 ---
 
