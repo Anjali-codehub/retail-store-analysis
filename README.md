@@ -23,10 +23,10 @@ An end-to-end real-time object detection and analytics solution designed for ret
 ## 🖼️ Screenshots
 
 ### 🎥 Real-Time Detection Interface
-![Detection]("Anjali-codehub/retail-store-analysis/detection.png")
+![Detection]("detection.png")
 
 ### 📈 Analytics Dashboard
-![Dashboard]("Anjali-codehub/retail-store-analysis/dashboard.png")
+![Dashboard]("dashboard.png")
 
 ---
 
